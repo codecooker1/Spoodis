@@ -1,0 +1,5 @@
+Name,Purpose,Quantity,Total Cost (USD),Link,Distributor
+"1.8"" TFT SPI Module ST7735S","The main Display",1,4.89,"https://store.roboticsbd.com/display/699-tft-lcd-display-module-st7735s-128x160-robotics-bangladesh.html","Robotics BD"
+"Seesstudio XIAO ESP32-S3","Main MCU for driving the display as well as sound processing",1,19.17,"https://store.roboticsbd.com/development-boards/3611-seeed-studio-xiao-esp32-s3-ultra-compact-dual-core-wifi-ble-50-development-board-robotics-bangladesh.html","Robotics BD"
+"MAX98357A","I2S MONO Audio Ampliphier",1,3.67,"https://store.roboticsbd.com/electronics-module/2919-max98357a-i2s-dac-class-d-mono-amplifier-module-robotics-bangladesh.html","Robotics BD"
+"LiPo Battery 600 mAh","To Power The Device",2,2.60,"https://www.daraz.com.bd/products/600mah-602025-37v-i325474931.html?spm=a2a0e.searchlist.list.20.2bf24e22Htcvdt","Daraz BD"
