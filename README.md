@@ -20,6 +20,13 @@ Here's the complete BOM I used:
 
 For the case you can either print it yourself or use a service like BDtronics or JLC3DP
 
+# Building
+To build it yourself use the print 3d files in CAD/PrintParts to 3D print the parts. Then wire the components according to this wiring diagram.
+<img width="632" height="463" alt="image" src="WiringDiagram.png" />
+
+Now put everything inside the case and screw the back side in and its done.
+
+** If you need to change or modify anything use the OnShape document here: [https://cad.onshape.com/documents/127f76d6721a894aa68b7aad/w/a87aa85b129c19d2610ae0ad/e/92650a9be47494a4742bc179](https://cad.onshape.com/documents/127f76d6721a894aa68b7aad/w/a87aa85b129c19d2610ae0ad/e/92650a9be47494a4742bc179) (Just make a copy and do your modifications)**
 
 # Pics:
 Here are some pics (will update once I finish building it IRL)
