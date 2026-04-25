@@ -23,6 +23,8 @@ For the case you can either print it yourself or use a service like BDtronics or
 # Building
 To build it yourself use the print 3d files in CAD/PrintParts to 3D print the parts. Then wire the components according to this wiring diagram.
 <img width="632" height="463" alt="image" src="WiringDiagram.png" />
+<img width="548" height="369" alt="WiringDiagram copy" src="https://github.com/user-attachments/assets/b2394376-a464-48c7-999a-0e54d82dd435" />
+
 
 Now put everything inside the case and screw the back side in and its done.
 
