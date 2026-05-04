@@ -36,6 +36,12 @@ Now put everything inside the case and screw the back side in and its done.
 # Pics:
 Here are some pics (will update once I finish building it IRL)
 
+<img width="575" height="397" alt="image" src="https://github.com/user-attachments/assets/586fd5c1-a8d3-4742-aaa7-d2d4911aea48" />
+<img width="567" height="386" alt="image" src="https://github.com/user-attachments/assets/921ae76d-a2f7-46a6-9448-0990b4a1c088" />
+
+<img width="548" height="399" alt="image" src="https://github.com/user-attachments/assets/96603b97-3017-4ad9-b190-16674d9892d1" />
+
+
 <img width="632" height="463" alt="image" src="https://github.com/user-attachments/assets/58c49c78-4372-4214-b7ac-7132e97ee467" />
 <img width="648" height="477" alt="image" src="https://github.com/user-attachments/assets/5521cf14-877c-42ed-ab44-d2be9607260e" />
 <img width="1365" height="662" alt="image" src="https://github.com/user-attachments/assets/0d10316e-cfed-4a04-969d-63a9c857aac4" />
