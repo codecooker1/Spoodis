@@ -20,7 +20,7 @@ Here's the complete BOM I used:
 |MAX98357A                  |I2S MONO Audio Ampliphier                                   |1       |3.67            |https://store.roboticsbd.com/electronics-module/2919-max98357a-i2s-dac-class-d-mono-amplifier-module-robotics-bangladesh.html                                                                                                                                                                                                                                    |Robotics BD    |
 |LiPo Battery 600 mAh       |To Power The Device                                         |2       |2.60            |https://www.daraz.com.bd/products/600mah-602025-37v-i325474931.html?spm=a2a0e.searchlist.list.20.2bf24e22Htcvdt                                                                                                                                                                                                                                                  |Daraz BD       |
 
-                                                                                                                                                                                                  |Daraz BD       |
+                                                                                                                                    
 
 
 
